@@ -47,7 +47,7 @@ Tim pengumpul menyatakan telah melakukan pemeriksaan status perkara melalui SIPP
 ## Isi Dataset
 
 * `Dataset/Narkotika.zip`: arsip berisi 50 file PDF putusan unik di dalam folder `Narkotika/`.
-* `Dataset/Overview/Overview.xlsx`: ringkasan 50 putusan.
+* `Overview/Overview.xlsx`: ringkasan 50 putusan.
 
   * Sheet `Overview`: lima kolom sesuai contoh tugas, yaitu No, No Putusan, Lembaga Peradilan, Barang Bukti, dan Amar Putusan.
   * Sheet `Metadata`: pemetaan nomor putusan ke nama file PDF, tahun nomor perkara, tanggal putusan, dan jumlah halaman.
